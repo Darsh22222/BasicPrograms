@@ -5,6 +5,8 @@
         static void Main(string[] args)
         {
             //PowerOf2.Power();
+            //HarmonicNumber.Number();
+            //PrimeFactor.PrimeFactors();
         }
     }
 }
