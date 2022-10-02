@@ -6,6 +6,7 @@
         {
             //PowerOf2.Power();
             //HarmonicNumber.Number();
+            //PrimeFactor.PrimeFactors();
         }
     }
 }
